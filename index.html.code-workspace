@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\projectspropp\\images"
+	},
+	{
+		"path": "..\\projectspropp\\index.html"
+	},
+	{
+		"path": "..\\projectspropp\\styles"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "index.html"
+  }
+}
